@@ -39,3 +39,8 @@ a{
     text-decoration: none;
     color: blue;
 }
+h2:first-letter{
+    color: rgb(230, 113, 146);
+    font-size: xx-large;
+    
+  }
